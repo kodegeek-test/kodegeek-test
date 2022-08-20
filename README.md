@@ -1,0 +1,9 @@
+- 👋 Hi, My name is Jose Vicente Nunez
+- 👀 I’m interested system administration, scripting languajes, Java and server hardware ...
+- 🌱 I’m currently learning Rust, Python and Java (you never stop learning) ...
+- 📫 You can reach me at [Twitter josevnz](https://twitter.com/josevnz) or [LinkedIn](https://www.linkedin.com/in/josevnz/ )...
+
+<!---
+kodegeek-test/kodegeek-test is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
